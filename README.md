@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Can Özdemir</h1>
+<h3 align="center">I am a Software developer from Turkey</h3>
 
-<!--
-**CanzzD/CanzzD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **.Net,C#,ASP.Net Core,Backend Programming**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/CanzzD?tab=repositories](https://github.com/CanzzD?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **.Net,C#,MVC**
+
+- 📫 How to reach me **canoozzdem1r@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/can özdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="can özdemir" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canzzd&show_icons=true&locale=en&layout=compact" alt="canzzd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canzzd&show_icons=true&locale=en" alt="canzzd" /></p>
