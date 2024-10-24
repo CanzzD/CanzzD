@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Can Özdemir</h1>
 <h3 align="center">I am a Software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.Net,C#,ASP.Net Core,Backend Programming**
+- 🌱 I’m currently learning **.Net,C#,ASP.Net Core,Flutter,Backend Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CanzzD?tab=repositories](https://github.com/CanzzD?tab=repositories)
 
-- 💬 Ask me about **.Net,C#,MVC**
+- 💬 Ask me about **.Net,C#,MVC,Flutter**
 
 - 📫 How to reach me **canoozzdem1r@gmail.com**
 
